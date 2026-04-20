@@ -2,7 +2,7 @@
 $host = 'localhost';
 $user = 'root';
 $password = 'newpassword';
-$dbName = 'student_registration';
+$dbName = 'register_students';
 
 $message = '';
 
